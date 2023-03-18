@@ -1,2 +1,2 @@
 # DSA_C
-This repository consists of DSA projects in C
+This repository consists of my DSA projects in C
